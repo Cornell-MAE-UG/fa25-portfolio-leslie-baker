@@ -5,7 +5,11 @@ description: Mechanism To Lift Maximum Weight
 image: /assets/images/statics-portfolio.jpg
 ---
 
-For our statics class, we were asked to design a mechanism that could lift the maximum weight possible. We were constrained to a design space of 50 cm tall by 150cm wide, and were given one bar, 3 pins, and 1 actuator to design this mechanism.
+**Problem Statement:** design a frame/mechanism to lift the maximum possible weight to the highest possible height. Assume all the supports and bar/actuator are rigid.
+
+**Design Constraints:** Given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length, 3 pin supports of which two need to be mounted on the ground, and a linear actuator.
+
+**Degrees of Freedom:** 3
 
 
 I designed a mechanism where the actuator is at an angle theta with the ground, pushing up and right on the rigid bar. Based upon the Tolomatic IMA catalog, I picked the IMA55-RN05 with a peak thrust of 35.81 kN. I found the length of the actuator to be 79.72cm from an equation in the catalog, and theta to be 38.84 degrees. I used the sum of the moments about point A to find that the maximum weight the actuator could lift is 26.13kN. I will be continuing this project and calculations throughout the semester.
