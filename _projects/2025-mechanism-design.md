@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Mechanism Design
+title: Mechanism Design bold
 description: Mechanism To Lift Maximum Weight
 image: /assets/images/statics-portfolio.jpg 
 ---
