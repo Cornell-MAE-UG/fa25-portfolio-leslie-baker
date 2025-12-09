@@ -4,7 +4,6 @@ title: Mechanism Design
 description: Mechanism To Lift Maximum Weight
 image: /assets/images/statics-portfolio.jpg 
 ---
-![secondary_design]({{ "/assets/images/secondary_design.jpg" | relative_url }})
 
 __Problem Statement__ design a frame/mechanism to lift the maximum possible weight to the highest possible height. Assume all the supports and bar/actuator are rigid.
 
